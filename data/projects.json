@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "CLI Tool",
+    "description": "Build a project tracker",
+    "due_date": "2026-12-31",
+    "owner_name": "Alice",
+    "tasks": [
+      {
+        "id": 1,
+        "title": "Setup repo",
+        "status": "done",
+        "assigned_to": "Alice"
+      },
+      {
+        "id": 2,
+        "title": "Write tests",
+        "status": "in-progress",
+        "assigned_to": "Bob"
+      },
+      {
+        "id": 3,
+        "title": "Add README",
+        "status": "todo",
+        "assigned_to": null
+      }
+    ]
+  }
+]
